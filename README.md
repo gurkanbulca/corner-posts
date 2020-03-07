@@ -8,7 +8,7 @@
 > axios, vuex, vue-router, bootstrap
 
 ## Database
-> Google Firebbase
+> Google Firebase
 
 
 
