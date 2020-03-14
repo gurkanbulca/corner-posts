@@ -10,10 +10,6 @@
 ## Database
 > Google Firebase
 
-
-
-
-
 ## Build Setup
 
 ``` bash
@@ -29,5 +25,22 @@ $ yarn start
 
 # for link to database => create keys.js under private folder and insert
 export const DB_URL = [FIREBASE_URL];
+```
+
+## Previews
+> Homepage
+![alt text](assets/images/sc3.jpg "Logo Title Text 1")
+
+> Post Details
+![alt text](assets/images/sc4.jpg "Logo Title Text 1")
+
+> Admin Homepage
+![alt text](assets/images/sc2.jpg "Logo Title Text 1")
+
+> New Post
+![alt text](assets/images/sc1.jpg "Logo Title Text 1")
+
+> Edit Post
+![alt text](assets/images/sc5.jpg "Logo Title Text 1")
 
 
